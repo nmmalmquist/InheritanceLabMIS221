@@ -1,0 +1,16 @@
+C:\MIS221Source\repos\mis221-lab-inheritance\bin\Debug\net5.0\mis221-lab-inheritance.exe
+C:\MIS221Source\repos\mis221-lab-inheritance\bin\Debug\net5.0\mis221-lab-inheritance.deps.json
+C:\MIS221Source\repos\mis221-lab-inheritance\bin\Debug\net5.0\mis221-lab-inheritance.runtimeconfig.json
+C:\MIS221Source\repos\mis221-lab-inheritance\bin\Debug\net5.0\mis221-lab-inheritance.runtimeconfig.dev.json
+C:\MIS221Source\repos\mis221-lab-inheritance\bin\Debug\net5.0\mis221-lab-inheritance.dll
+C:\MIS221Source\repos\mis221-lab-inheritance\bin\Debug\net5.0\ref\mis221-lab-inheritance.dll
+C:\MIS221Source\repos\mis221-lab-inheritance\bin\Debug\net5.0\mis221-lab-inheritance.pdb
+C:\MIS221Source\repos\mis221-lab-inheritance\obj\Debug\net5.0\mis221-lab-inheritance.csproj.AssemblyReference.cache
+C:\MIS221Source\repos\mis221-lab-inheritance\obj\Debug\net5.0\mis221-lab-inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\MIS221Source\repos\mis221-lab-inheritance\obj\Debug\net5.0\mis221-lab-inheritance.AssemblyInfoInputs.cache
+C:\MIS221Source\repos\mis221-lab-inheritance\obj\Debug\net5.0\mis221-lab-inheritance.AssemblyInfo.cs
+C:\MIS221Source\repos\mis221-lab-inheritance\obj\Debug\net5.0\mis221-lab-inheritance.csproj.CoreCompileInputs.cache
+C:\MIS221Source\repos\mis221-lab-inheritance\obj\Debug\net5.0\mis221-lab-inheritance.dll
+C:\MIS221Source\repos\mis221-lab-inheritance\obj\Debug\net5.0\ref\mis221-lab-inheritance.dll
+C:\MIS221Source\repos\mis221-lab-inheritance\obj\Debug\net5.0\mis221-lab-inheritance.pdb
+C:\MIS221Source\repos\mis221-lab-inheritance\obj\Debug\net5.0\mis221-lab-inheritance.genruntimeconfig.cache
